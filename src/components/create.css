@@ -1,0 +1,22 @@
+.create{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+
+}
+.exampleInputEmail1 { 
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-size: 16px;
+    outline: none;
+} 
+.create{
+    height: 100%;
+    color: rgb(31, 158, 158);
+}

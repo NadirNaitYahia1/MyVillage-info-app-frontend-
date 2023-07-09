@@ -1,0 +1,52 @@
+.container-fluid.apro{
+  background:#068488  !important;
+
+
+}
+
+.container-fluid.apro h1{
+    color: rgb(247, 247, 247) !important;
+   
+}
+
+.imgApropos{
+  clip-path: circle(50% at 50% 50%);
+  width:  90px;
+  height:  90px ;
+  margin: 0 auto;
+  
+} 
+.bi-facebook{
+  height: 30px;
+  width: 30px;
+}
+li{
+  list-style: none;
+
+}
+.maliste   {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  color: black ;
+  text-decoration: none;
+}
+.text2{
+  color: white;
+  font-size: 17px;
+  font-family:'Courier New', Courier, monospace; 
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.n{
+  height: 100px;
+}

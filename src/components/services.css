@@ -1,0 +1,27 @@
+.img-fluid{
+    width: 600px;
+    height: 250px;
+}
+h1{
+    color: #068488;
+}
+ 
+hr{
+    padding: 1px;
+    color: bisque;
+}
+.textD{
+    color:black; 
+
+}
+.textD h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: #068488;
+    
+}
+span{
+    color: #000000;
+    font-size: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
